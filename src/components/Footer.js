@@ -32,10 +32,10 @@ export default function Footer() {
                       <p>Address :Your address goes here, your demo address.</p>
                     </li>
                     <li>
-                      <a href="#">Phone : +8880 44338899</a>
+                      <a href="#">Phone : +0000 0000000</a>
                     </li>
                     <li>
-                      <a href="#">Email : info@colorlib.com</a>
+                      <a href="#">Email : info@demo.com</a>
                     </li>
                   </ul>
                 </div>
@@ -120,19 +120,19 @@ export default function Footer() {
             </div>
             <div className="col-xl-3 col-lg-3 col-md-4 col-sm-5">
               <div className="footer-tittle-bottom">
-                <span>5000+</span>
+                <span>3000+</span>
                 <p>Talented Hunter</p>
               </div>
             </div>
             <div className="col-xl-3 col-lg-3 col-md-4 col-sm-5">
               <div className="footer-tittle-bottom">
-                <span>451</span>
+                <span>265</span>
                 <p>Talented Hunter</p>
               </div>
             </div>
             <div className="col-xl-3 col-lg-3 col-md-4 col-sm-5">
               <div className="footer-tittle-bottom">
-                <span>568</span>
+                <span>365</span>
                 <p>Talented Hunter</p>
               </div>
             </div>
@@ -145,9 +145,9 @@ export default function Footer() {
             <div className="row d-flex justify-content-between align-items-center">
               <div className="col-xl-10 col-lg-10 ">
                 <div className="footer-copy-right">
-                  {/* <p><!-- a back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i className="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-  <!-- a back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p> */}
+                  {/* <p><!-- a back to demo can't be removed. Template is licensed under CC BY 3.0. -->
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i className="fa fa-heart" aria-hidden="true"></i> by <a href="https://demo.com" target="_blank">demo</a>
+  <!-- a back to demo can't be removed. Template is licensed under CC BY 3.0. --></p> */}
                 </div>
               </div>
               <div className="col-xl-2 col-lg-2">

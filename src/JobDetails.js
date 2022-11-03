@@ -7,7 +7,7 @@ import aboutImage from "./img/hero/about.jpg"
 export default function JobDetails() {
   return (
     <>
-      <PreLoader/>
+      {/* <PreLoader/> */}
       <Header/>
       <main>
         <div className="slider-area ">
@@ -47,7 +47,7 @@ export default function JobDetails() {
                         <li>
                           <i className="fas fa-map-marker-alt"></i>Athens, Greece
                         </li>
-                        <li>$3500 - $4000</li>
+                        <li>₦3500 - ₦4000</li>
                       </ul>
                     </div>
                   </div>
@@ -117,7 +117,7 @@ export default function JobDetails() {
                       Job nature : <span>Full time</span>
                     </li>
                     <li>
-                      Salary : <span>$7,800 yearly</span>
+                      Salary : <span>₦7,800 yearly</span>
                     </li>
                     <li>
                       Application date : <span>12 Sep 2020</span>
@@ -133,7 +133,7 @@ export default function JobDetails() {
                   <div className="small-section-tittle">
                     <h4>Company Information</h4>
                   </div>
-                  <span>Colorlib</span>
+                  <span>demo</span>
                   <p>
                     It is a long established fact that a reader will be
                     distracted by the readable content of a page when looking at
@@ -141,13 +141,13 @@ export default function JobDetails() {
                   </p>
                   <ul>
                     <li>
-                      Name: <span>Colorlib </span>
+                      Name: <span>demo </span>
                     </li>
                     <li>
-                      Web : <span> colorlib.com</span>
+                      Web : <span> demo.com</span>
                     </li>
                     <li>
-                      Email: <span>carrier.colorlib@gmail.com</span>
+                      Email: <span>carrier.demo@gmail.com</span>
                     </li>
                   </ul>
                 </div>

@@ -9,7 +9,7 @@ import aboutImage from "./img/hero/about.jpg"
 export default function JobListing() {
   return (
     <>
-      <PreLoader />
+      {/* <PreLoader /> */}
       <Header/>
       <main>
         <div className="slider-area ">
@@ -242,7 +242,7 @@ export default function JobListing() {
                               <i className="fas fa-map-marker-alt"></i>Athens,
                               Greece
                             </li>
-                            <li>$3500 - $4000</li>
+                            <li>₦3500 - ₦4000</li>
                           </ul>
                         </div>
                       </div>
@@ -268,7 +268,7 @@ export default function JobListing() {
                               <i className="fas fa-map-marker-alt"></i>Athens,
                               Greece
                             </li>
-                            <li>$3500 - $4000</li>
+                            <li>₦3500 - ₦4000</li>
                           </ul>
                         </div>
                       </div>
@@ -294,7 +294,7 @@ export default function JobListing() {
                               <i className="fas fa-map-marker-alt"></i>Athens,
                               Greece
                             </li>
-                            <li>$3500 - $4000</li>
+                            <li>₦3500 - ₦4000</li>
                           </ul>
                         </div>
                       </div>
@@ -320,7 +320,7 @@ export default function JobListing() {
                               <i className="fas fa-map-marker-alt"></i>Athens,
                               Greece
                             </li>
-                            <li>$3500 - $4000</li>
+                            <li>₦3500 - ₦4000</li>
                           </ul>
                         </div>
                       </div>
@@ -346,7 +346,7 @@ export default function JobListing() {
                               <i className="fas fa-map-marker-alt"></i>Athens,
                               Greece
                             </li>
-                            <li>$3500 - $4000</li>
+                            <li>₦3500 - ₦4000</li>
                           </ul>
                         </div>
                       </div>
@@ -372,7 +372,7 @@ export default function JobListing() {
                               <i className="fas fa-map-marker-alt"></i>Athens,
                               Greece
                             </li>
-                            <li>$3500 - $4000</li>
+                            <li>₦3500 - ₦4000</li>
                           </ul>
                         </div>
                       </div>
@@ -398,7 +398,7 @@ export default function JobListing() {
                               <i className="fas fa-map-marker-alt"></i>Athens,
                               Greece
                             </li>
-                            <li>$3500 - $4000</li>
+                            <li>₦3500 - ₦4000</li>
                           </ul>
                         </div>
                       </div>

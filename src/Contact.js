@@ -6,7 +6,7 @@ import PreLoader from "./components/PreLoader";
 export default function Contact() {
   return (
     <>
-      <PreLoader />
+      {/* <PreLoader /> */}
       <Header />
       <div className="slider-area ">
         <div

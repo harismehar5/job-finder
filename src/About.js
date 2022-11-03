@@ -19,7 +19,7 @@ import Footer from "./components/Footer";
 export default function About() {
   return (
     <>
-      <PreLoader />
+      {/* <PreLoader /> */}
       <Header />
       <main>
         <div className="slider-area ">

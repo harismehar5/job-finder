@@ -9,7 +9,7 @@ import aboutImage from "./img/hero/about.jpg";
 export default function Blog() {
   return (
     <>
-      <PreLoader />
+      {/* <PreLoader /> */}
       <Header />
       <div className="slider-area ">
         <div
